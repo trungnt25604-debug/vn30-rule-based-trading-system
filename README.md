@@ -4,7 +4,7 @@
 This project implements a rule-based decision support system for VN30 stocks
 using technical indicators such as MA, RSI, MACD and slope of MA.
 
-The system does not automatically execute trades, but provides Buy/Hold/Sell
+The system does not automatically execute trades, but provides Hold/Sell
 recommendations to support investor decision-making.
 
 ## Main Components
@@ -23,4 +23,5 @@ python main.py
 python backtest.py
 
 Author
+
 Nguyen Thanh Trung
